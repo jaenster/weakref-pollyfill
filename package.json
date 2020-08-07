@@ -1,0 +1,24 @@
+{
+  "name": "weakref-pollyfill",
+  "version": "1.0.0",
+  "description": "weakref polyfill",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaenster/weakref-polyfill.git"
+  },
+  "files": [
+    "/src"
+  ],
+  "keywords": [
+    "Polyfill",
+    "WeakRef",
+    "WeakMap",
+    "No dependencies",
+    "MIT",
+    "standalone",
+    "Garbage collector"
+  ],
+  "author": "jaenster",
+  "license": "MIT"
+}
